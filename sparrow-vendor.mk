@@ -130,6 +130,8 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_csidtg_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_csidtg_postproc.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_csidtg_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_csidtg_preview.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_csidtg_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_csidtg_zsl_preview.so \
+    vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_a3_default_preview.so \
+    vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_a3_default_video.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_a3_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_a3_zsl_preview.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_a3_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_a3_zsl_video.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_common.so \
@@ -142,6 +144,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_postproc.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_preview.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_snapshot.so \
+    vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_video.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libchromatix_ov5693_video_full.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov5693_video_full.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libdataitems.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdataitems.so \
     vendor/lenovo/sparrow/proprietary/vendor/lib/libdiag.so:$(TARGET_COPY_OUT_VENDOR)/lib/libdiag.so \
